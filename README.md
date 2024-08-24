@@ -1,7 +1,12 @@
+![MasterHead](https://www.pragma.co/hubfs/%C2%BFC%C3%B3mo%20certificarse%20como%20un%20programador%20supersaiyajin.jpg)
+
 <h1 align="center">Hola me presento mi nombre es🤝 Anthony Janir Benitez</h1>
 <h3 align="center">Un Desarrollador y programador Front-End y de aplicaciones android</h3>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony-0898" alt="tony-0898" /></a> </p>
+
 
 - 👯 Desarrollo de plataformas Web [Portal Horas Art.140 VOAE](https://portal-curoc-fe.pages.dev/)
 
